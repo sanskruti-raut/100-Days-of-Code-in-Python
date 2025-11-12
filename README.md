@@ -1,2 +1,2 @@
-# 100 Days of Python Pledge
+# 100 Days of Python
 
