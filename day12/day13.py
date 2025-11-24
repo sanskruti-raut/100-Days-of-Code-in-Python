@@ -1,4 +1,4 @@
-#Debugged  Code
+#Debugged Code
 
 
 # Target is the number up to which we count
